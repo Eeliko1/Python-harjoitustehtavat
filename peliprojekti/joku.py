@@ -1,4 +1,12 @@
 Nimi = input('Mikä on nimesi: ')
-Ikä = int(input('Mikä on ikäsi: '))
 
-print(f'Nimesi: {Nimi}\nIkäsi: {Ikä}')
+while True:
+    Ikä = int(input('Mikä on ikäsi: '))
+
+    if Ikä < 12:
+        print('Olet liian nuori. Ohjelma sammuu')
+        break
+
+    print('Tervetuloa!')
+
+    # Tää sammuttaa pelin, pistä pohjalle
