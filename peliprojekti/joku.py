@@ -49,3 +49,4 @@ else:
 
         else:
             print('Tuntematon komento. Yritä uudelleen.')
+
