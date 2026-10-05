@@ -1,0 +1,11 @@
+--- PELIN KOMENNOT ---
+status       - Näytä pelaajan tiedot ja kerätyt roskat
+katso        - Katso ympärillesi ja tarkista alue
+liiku        - Liiku toiselle alueelle
+kerää        - Kerää alueella oleva roska
+kierrätä     - Vie kerätyt roskat kierrätyskeskukseen
+noppa        - Heitä noppaa
+uusi nimi    - Vaihda pelinimesi
+tallenna     - Tallenna pelitilanne ja jatka myöhemmin
+ohjeet       - Näytä tämä ohje uudelleen
+lopeta       - Poistu pelistä
